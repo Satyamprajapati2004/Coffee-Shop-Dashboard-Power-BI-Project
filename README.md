@@ -40,16 +40,15 @@ The interactive dashboard includes KPI cards, charts, filters, and visual analys
 
 ---
 
-## Technical Details
+##  Tools & Technologies
 
-| Aspect              | Details                                           |
-| ------------------- | ------------------------------------------------- |
-| **Tools Used**      | Power BI, Microsoft Excel                         |
-| **Data Source**     | `Coffee_data.csv`                                 |
-| **Power BI File**   | `Coffee Trend and Spend Analysis Dashboard.pbix`  |
-| **Data Processing** | Power Query                                       |
-| **Visualization**   | Power BI                                          |
-| **Dashboard Type**  | Interactive Coffee Shop Sales Analytics Dashboard |
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=files&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-5B2C6F?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### Visuals Used
 
